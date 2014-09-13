@@ -1,4 +1,6 @@
-Social_Network_Analysis
-=======================
-social network analysis class
-R code
+# **Social Network Analysis class (R code)**
+
+## *PROJECT 1:*
+
+## *PROJECT 2:*
+
